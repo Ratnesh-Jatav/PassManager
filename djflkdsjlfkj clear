@@ -1,0 +1,24 @@
+[1mdiff --git a/y.html b/Index.html[m
+[1msimilarity index 63%[m
+[1mrename from y.html[m
+[1mrename to Index.html[m
+[1mindex c2b20bd..6378521 100644[m
+[1m--- a/y.html[m
+[1m+++ b/Index.html[m
+[36m@@ -13,8 +13,13 @@[m
+     </style>[m
+ </head>[m
+ <body>[m
+[31m-    <button onclick="alert('Welcome')">Click me</button>[m
+[31m-[m
+[32m+[m[32m    <h1><p>This is Basic Button</p></h1>[m
+[32m+[m[32m    <form action="script">[m
+[32m+[m[32m        Name <input type="text"><br>[m
+[32m+[m[32m        <br>[m
+[32m+[m[32m        Father Name <input type="text">[m
+[32m+[m[32m    </form>[m
+[32m+[m[32m    <button onclick="alert('Welcome')">Submit</button>[m
+     <script src="scrip.js"></script>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
